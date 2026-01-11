@@ -35,10 +35,3 @@ It is designed to help beginners practice **Python fundamentals** like condition
 
 ---
 
-## How to Run
-
-1. Make sure Python 3.x is installed on your system.  
-2. Open the project folder on your computer.  
-3. Run the chatbot:
-```bash
-python chatbot.py
